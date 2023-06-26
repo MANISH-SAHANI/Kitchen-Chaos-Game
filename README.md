@@ -124,7 +124,7 @@ When you prepare dishes or recipes for your customer, you can deliver them to th
 This delivery counter has a proper counter visual that rotates cotinuously.  The counter visual allows player to easily locate their order delivery area counter, making delivery easy.
 
 
-<h2> Do you want to download the game? </h2>
+<h2> Do you want to download the game?💫</h2>
 
 You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Kitchen Chaos.exe and you are ready to play. Enjoy!
 
