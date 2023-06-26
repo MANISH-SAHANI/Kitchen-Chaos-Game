@@ -1,7 +1,8 @@
 <h1 align="center" >Kitchen Chaos 🕹️🎮</h1>
 
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Kitchen-Chaos-Game/assets/91081774/3dcee1b6-7cf2-46c4-beef-78565b12655b" alt="Logo" width="400" /></h1>
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Kitchen-Chaos-Game/assets/91081774/32e6c1a6-e2d6-4f68-91c3-7ac13184a764" alt="Logo" width="800" /></h1>
+
 
 <h2>Kitchen Chaos : </h2> 
 
